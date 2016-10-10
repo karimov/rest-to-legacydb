@@ -1,2 +1,2 @@
 # DB conf
-DB_CONFIG = 'mysql://muser:mpassword@127.0.0.1:3306/mbanking'
+DB_CONFIG = 'mysql://user:password@127.0.0.1:3306/dbname'
